@@ -1,0 +1,985 @@
+Company,Type,Inches,RAM,Processor Name,Osys,MEMORY,TouchScreen,Graphic Card,KGs,X_RES,Y_RES,Price
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+DELL,Thin and Light Laptop,38 cm,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,35990
+Lenovo,Thin and Light Laptop,36.62 cm,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,48450
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,38990
+HP,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.46,1920,1080,37880
+Lenovo,Thin and Light Laptop,14 Inch,8 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.3,1366,768,25990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,34604
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,41990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,31499
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,54990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.76,1920,1080,26990
+Lenovo,Laptop,15.6 inch,8 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,,1920,1080,24490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+AXL,Thin and Light Laptop,14.1 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,14990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,36990
+HP,Notebook,15.6 Inch,4 GB,AMD Athlon Dual Core,DOS,256 GB SSD,No,No,2.5,,,21999
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,36990
+HP,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.41,1920,1080,36990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,63990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,65990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Acer,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.49,1920,1080,28490
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,42990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,34990
+Infinix,Thin and Light Laptop,15.6 inch,32 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,No,1.8,1920,1080,76990
+APPLE,Thin and Light Laptop,13.3 inch,8 GB,Apple M1,Mac OS Big Sur,256 GB SSD,No,No,1.29,2560,1600,82588
+DELL,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,55390
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,44990
+HP,Thin and Light Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,65849
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+DELL,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,38590
+DELL,2 in 1 Laptop,14 inches,8 GB,Intel Core i3 11th Gen,Windows 10,512 GB SSD,No,No,1.56,1920,1080,53990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,40990
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,54990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,256 GB SSD,No,No,1.7,1920,1080,32990
+HP,Gaming Laptop,16.1 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.48,1920,1080,57990
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,52990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+MSI,Gaming Laptop,15.6 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.35,1920,1080,59990
+HP,Thin and Light Laptop,14 inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.46,1920,1080,47990
+MSI,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,45990
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+SAMSUNG,Thin and Light Laptop,14 Inch,4 GB,Qualcomm Snapdragon 7c Gen 2,Windows 11 ,128 GB EMMC Storage,No,No,1.38,1920,1080,29990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42990
+Lenovo,Thin and Light Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.85,1920,1080,67190
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,65990
+HP,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,38990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,38590
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Acer,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,36990
+Acer,Notebook,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,36990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+DELL,Business Laptop,14 Inch,8 GB,Intel Core i3 11th Gen,DOS,"512 GB SSD,16 GB EMMC Storage",No,No,1.52,1366,768,34490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.57,1920,1080,27990
+Primebook,Thin and Light Laptop,11.6 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,64 GB EMMC Storage,No,No,1.065,1366,768,13990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,51990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.76,1920,1080,24990
+Acer,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.25,2560,1440,59990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Laptop,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,1.47,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,54990
+Lenovo,Thin and Light Laptop,35.56 cm,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.43,1920,1080,38990
+HP,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.46,1920,1080,39990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,16 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1200,58650
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.76,1920,1080,26990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.76,1920,1080,26990
+Acer,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.6,1920,1080,94990
+HP,Gaming Laptop,16.1 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.48,1920,1080,57990
+CHUWI,Laptop,14.1 inch,8 GB,Intel Celeron Dual Core 11th Gen,Windows 11 ,256 GB SSD,No,No,1.39,1920,1080,19990
+CHUWI,Laptop,14 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1200,23990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,16 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1200,58650
+HP,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.46,1920,1080,39990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,101990
+CHUWI,Laptop,14.1 inch,8 GB,Intel Celeron Dual Core 11th Gen,Windows 11 ,256 GB SSD,No,No,1.39,1920,1080,19990
+ASUS,Chromebook,11.6 inch,4 GB,Intel Celeron Dual Core,Chrome OS,32 GB EMMC Storage,No,No,1.2,1366,768,16990
+Lenovo,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,"1 TB HDD,256 GB SSD",No,Yes,2.25,1920,1080,55490
+ASUS,Gaming Laptop,17.3 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.6,1920,1080,63990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,54990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,65990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+MSI,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,37990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+DELL,Thin and Light Laptop,14.96 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,54990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+Lenovo,Thin and Light Laptop,39.62 cm,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,39990
+APPLE,Thin and Light Laptop,13.6 Inch,8 GB,Apple M2,Mac OS Monterey,256 GB SSD,No,No,1.24,2560,1664,107910
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.31,1920,1080,65990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,47490
+Infinix,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,30490
+DELL,Gaming Laptop,38 cm,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.57,1920,1080,72990
+ASUS,2 in 1 Laptop,14 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,58990
+HP,Notebook,14 inch,8 GB,AMD Ryzen 3 Dual Core,DOS,512 GB SSD,No,No,1.47,1366,768,29990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,43990
+Lenovo,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.25,1920,1080,52490
+Acer,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 5,Windows 11 ,256 GB SSD,No,No,1.6,,,30990
+realme,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.47,2160,1440,44999
+ASUS,Chromebook,14 inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.2,1366,768,16990
+MSI,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,55990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,36990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,59990
+Acer,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 3 Dual Core 13th Gen,Windows 11 ,256 GB SSD,No,No,1.6,,,25990
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,56547
+Acer,Gaming Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,56990
+HP,Gaming Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,63990
+HP,Gaming,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.29,1920,1080,71990
+Infinix,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,34990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,No,1.75,1920,1080,88490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,48990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,66990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,1 TB SSD,No,No,1.69,1920,1080,44090
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,2880,1800,74990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,69990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.4,2880,1800,69990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,45990
+HP,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,76990
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,109990
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,53990
+MSI,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,48990
+HP,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,56490
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,66990
+Lenovo,Thin and Light Laptop,14 Inch,4 GB,AMD Athlon Dual Core,Windows 10,256 GB SSD,No,No,1.59,1366,768,20990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,43990
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,56547
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+Acer,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 3 Dual Core 13th Gen,Windows 11 ,256 GB SSD,No,No,1.6,,,25990
+HP,Thin and Light Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,57990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,49990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,36990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,43990
+APPLE,Thin and Light Laptop,13.3 inch,8 GB,Apple M1,Mac OS Big Sur,256 GB SSD,No,No,1.29,2560,1600,81990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,No,1.7,2880,1620,109990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.4,2880,1800,69990
+realme,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.47,2160,1440,44999
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,1 TB SSD,No,No,1.69,1920,1080,44090
+HP,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,65990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,48769
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,85990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Infinix,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,34990
+HP,Thin and Light Laptop,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,48900
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,63990
+realme,Thin and Light Laptop,14 inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.37,,,53999
+ASUS,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.38,1920,1080,36990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42990
+ASUS,Laptop,16 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,47990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+DELL,Thin and Light Laptop,38 cm,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34790
+Acer,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.25,2880,1800,72990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+ASUS,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,69990
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,,,,45872
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,44990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.74,1920,1080,67990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Infinix,Thin and Light Laptop,13.46 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.58,1920,1080,31990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,65990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Lenovo,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,47490
+HP,Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,,,,34990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.38,1920,1080,36990
+Lenovo,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.55,1920,1080,64990
+AXL,Thin and Light Laptop,14.1 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,14990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,39990
+HP,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,64990
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.76,1920,1080,24990
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,34990
+HP,Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,68490
+ASUS,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,74990
+Acer,Gaming Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.1,1920,1080,57990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,54990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,65990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,85990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,44990
+Infinix,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,38990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Infinix,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.58,1920,1080,31990
+ASUS,Handheld Gaming PC,7 Inch,16 GB,AMD Ryzen Z1 Octa Core,Windows 11 ,512 GB SSD,No,Yes,0.608,1920,1080,69990
+ASUS,Gaming Laptop,17.3 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.6,1920,1080,59990
+Acer,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,46990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Business Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.74,1366,768,29490
+HP,Thin and Light Laptop,13.3 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,0.97,1920,1200,67990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.25,1920,1080,109990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,37990
+Lenovo,Thin and Light Laptop,15 inch,4 GB,Intel Core i3 11th Gen,Windows 10,256 GB SSD,No,No,2.47,1920,1080,36000
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,1 TB SSD,No,No,1.6,1920,1080,67990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+Lenovo,Thin and Light Laptop,35.56 cm,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.43,1920,1080,44990
+ASUS,Laptop,11.6 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,1.26,1366,768,20919
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+MSI,Gaming Laptop,15.6 inch,8 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.35,1920,1080,56990
+Infinix,Business Laptop,15.6 inch,32 GB,Intel Core i9 12th Gen,Windows 11 ,1 TB SSD,No,No,1.8,1920,1080,80990
+DELL,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,50050
+Lenovo,Laptop,15.6 inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,60790
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,46990
+CHUWI,Laptop,14 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1200,23990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+MSI,Gaming,17.3 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,1920,1080,127990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,52650
+SAMSUNG,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,No,1.58,1920,1080,89990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,Yes,No,1.5,1920,1080,49990
+Acer,Thin and Light Laptop,15.6 inch,4 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.7,1920,1080,29990
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,114990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Gaming Laptop,15.6 inch,32 GB,Intel Core i9 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.3,2560,1440,189990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,59990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,51990
+HP,Chromebook,14 Inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.49,1366,768,22990
+Acer,Gaming Laptop,16 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,1920,1200,124990
+ASUS,2 in 1 Gaming Laptop,16 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2,2560,1600,171990
+HP,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.46,1920,1080,57990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+APPLE,Thin and Light Laptop,13.6 Inch,8 GB,Apple M2,Mac OS Monterey,256 GB SSD,No,No,1.24,2560,1664,107990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Chromebook,14 Inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.49,1366,768,22990
+HP,Gaming Laptop,16.1 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.48,1920,1080,58990
+DELL,Laptop,14 inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,1 TB SSD,No,No,,,,66900
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.39,2880,1800,97990
+HP,Thin and Light Laptop,14 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,58999
+ASUS,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,No,1.4,2880,1800,89990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.46,1920,1080,38999
+Infinix,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,40990
+HP,Thin and Light Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,65849
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+HP,Thin and Light Laptop,15.6 inch,4 GB,Intel Core i3 10th Gen,Windows 10,512 GB SSD,No,No,1.74,1920,1080,37990
+Lenovo,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,47490
+APPLE,Thin and Light Laptop,13.3 Inch,8 GB,Apple M2,Mac OS Monterey,256 GB SSD,No,No,1.38,2560,1600,119990
+Infinix,Thin and Light Laptop,13.46 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.58,1920,1080,31990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,55490
+Acer,Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,,,,41990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,40990
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,34990
+Lenovo,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,54990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.2,1920,1080,115990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Acer,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.5,1920,1080,74990
+realme,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.47,2160,1440,44999
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,72990
+Acer,Gaming Laptop,16 Inch,16 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,1920,1200,159990
+ASUS,Notebook,16 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1200,59100
+Acer,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,35990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+DELL,Gaming,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.81,1920,1080,67990
+Lenovo,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.55,1920,1080,64990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+HP,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,64990
+ASUS,Thin and Light Laptop,15.6 inch,8 GB,Intel Celeron Dual Core,Windows 10,512 GB SSD,No,No,1.8,1366,768,30480
+Acer,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.5,1920,1080,69990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,69990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+HP,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.41,2240,1400,80490
+Infinix,Thin and Light Laptop,15.6 inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,No,1.8,1920,1080,84990
+walker,Laptop,14.1 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,,,13990
+HP,Thin and Light Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,69490
+HP,Gaming Laptop,16.1 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.48,1920,1080,58990
+Lenovo,Chromebook,14 inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.4,1920,1080,18990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.3,1920,1080,61990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,Yes,No,1.39,2880,1800,102890
+ASUS,Gaming,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,1 TB SSD,No,Yes,,1920,1080,69990
+SAMSUNG,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.17,2880,1800,131990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 Pro,512 GB SSD,No,No,1.75,1920,1080,72999
+ASUS,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,No,1.4,2880,1800,79990
+HP,Notebook,15.6 inch,4 GB,AMD Athlon Dual Core,DOS,256 GB SSD,No,No,1.47,1366,768,21799
+HP,Gaming Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,63990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,DOS,512 GB SSD,No,No,1.65,1920,1080,32990
+Acer,Gaming Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.5,1920,1080,72990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,DOS,512 GB SSD,No,No,1.7,1920,1080,35990
+HP,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.23,1920,1080,67490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+CHUWI,Laptop,14.1 inch,8 GB,Intel Celeron Dual Core 11th Gen,Windows 11 ,256 GB SSD,No,No,1.39,1920,1080,19990
+SAMSUNG,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,No,1.58,1920,1080,89990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,"1 TB HDD,256 GB SSD",No,Yes,1.86,1920,1080,68990
+Primebook,Thin and Light Laptop,11.6 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,64 GB EMMC Storage,No,No,1.065,1366,768,13990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,51990
+MSI,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,59990
+ASUS,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 11 ,512 GB SSD,No,Yes,2.3,1920,1080,58500
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Celeron Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,29900
+MSI,Gaming Laptop,15.6 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.98,,,115990
+Primebook,Thin and Light Laptop,11.6 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+HP,Gaming Laptop,16.1 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.48,1920,1080,58990
+Lenovo,Gaming Laptop,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.25,1920,1080,61990
+ASUS,Thin and Light Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,69990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Lenovo,Laptop,14 inch,4 GB,AMD Athlon Dual Core,DOS,256 GB SSD,No,No,,,,21990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.2,1920,1080,154990
+HP,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.46,1920,1080,38999
+SAMSUNG,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.58,1920,1080,74990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.38,1920,1080,38990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 10th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,No,1.85,1920,1080,38500
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Lenovo,Gaming Laptop,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,512 GB SSD,No,Yes,2.25,1920,1080,66490
+ASUS,2 in 1 Gaming Laptop,13.4 Inch,16 GB,AMD Ryzen 9 Octa Core,Windows 11 ,1 TB SSD,No,Yes,1.3,1920,1200,131990
+HP,Thin and Light Laptop,33.78 cm,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.32,1920,1200,85119
+APPLE,Thin and Light Laptop,13.6 Inch,8 GB,Apple M2,Mac OS Monterey,256 GB SSD,No,No,1.24,2560,1664,106990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.25,1920,1080,56490
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,39990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,63990
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,114990
+ASUS,Laptop,16 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,64990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.68,1920,1080,53490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+APPLE,Laptop,16.2 inch,16 GB,Apple M1 Pro,Mac OS Monterey,1 TB SSD,No,No,2.1,3456,2234,243990
+ASUS,Thin and Light Laptop,15.6 inch,8 GB,Intel Celeron Dual Core,Windows 10,512 GB SSD,No,No,1.8,1366,768,30480
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+CHUWI,Laptop,14 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1200,23990
+HP,Chromebook,14 Inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.46,1920,1080,20990
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,512 GB SSD,No,No,1.66,1920,1080,50990
+HP,Thin and Light Laptop,14 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.46,1920,1080,46490
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,39889
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,65990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,56990
+DELL,Notebook,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,256 GB SSD,No,No,1.68,,,33500
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,68990
+HP,Gaming Laptop,16 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.09,2560,1600,199990
+DELL,Thin and Light Laptop,15.6 inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,43990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,1.86,1920,1080,93990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,59490
+realme,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.47,2160,1440,44999
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Handheld Gaming PC,7 Inch,16 GB,AMD Ryzen Z1 Octa Core,Windows 11 ,512 GB SSD,No,Yes,0.608,1920,1080,69990
+HP,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,109990
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10,256 GB SSD,No,No,1.65,1920,1080,44990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,55990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 10th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,No,1.85,1920,1080,38500
+DELL,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.64,1920,1080,68900
+ASUS,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.4,2880,1800,69990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Thin and Light Laptop,14 inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,No,1.52,1920,1080,86990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,37990
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,,,,52890
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10,256 GB SSD,No,No,1.65,1920,1080,44990
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,109990
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,53990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,Yes,No,1.5,1920,1080,62990
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,512 GB SSD,No,No,1.66,1920,1080,50990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+HP,Thin and Light Laptop,13.3 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,No,0.97,1920,1200,78896
+HP,Thin and Light Laptop,33.78 cm,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.32,1920,1200,85119
+Lenovo,Gaming Laptop,16 Inch,32 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2.45,2560,1600,150748
+ASUS,Gaming Laptop,16 Inch,32 GB,AMD Ryzen 9 16 Core,Windows 11 ,2 TB SSD,No,Yes,2.67,2560,1600,429990
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+MSI,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,59990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,47490
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Gaming Laptop,16.1 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.48,1920,1080,58990
+GIGABYTE,Gaming Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,3.11,1920,1080,79990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,41490
+HP,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,62249
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,2 in 1 Laptop,14.1 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,54990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,47990
+Infinix,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.24,1920,1080,35990
+MSI,Gaming,17 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,2 TB SSD,No,Yes,3,2560,1600,354990
+Lenovo,Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,35999
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,13.3 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1,2880,1800,109990
+Infinix,Thin and Light Laptop,34.19 cm,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.76,1920,1080,24990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,45990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,"1 TB HDD,256 GB SSD",No,Yes,1.86,1920,1080,95990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,51990
+HP,Thin and Light Laptop,14 inch,8 GB,Intel Pentium Quad Core,Windows 10,256 GB SSD,No,No,1.46,1366,768,30999
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.76,1920,1080,26990
+DELL,Laptop,14 inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,1 TB SSD,No,No,,2220,1080,74490
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Infinix,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.58,1920,1080,52990
+HP,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,59990
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 10,512 GB SSD,No,Yes,1.86,1920,1080,67990
+Infinix,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Quad Core,Windows 11 ,128 GB SSD,No,No,1.24,1920,1080,27990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,38990
+Lenovo,Thin and Light Laptop,39.62 cm,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,48990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+Acer,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.1,1920,1080,57990
+HP,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,109990
+Lenovo,Laptop,15.6 inch,8 GB,Intel Core i5 7th Gen,DOS,1 TB HDD,No,No,2.2,1366,768,45000
+MSI,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.25,1920,1080,81990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+SAMSUNG,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,256 GB SSD,No,No,1.57,1920,1080,56990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,46990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.25,1920,1080,85990
+ASUS,Thin and Light Laptop,15.6 inch,16 GB,Intel Core i5 11th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,No,1.8,1920,1080,57550
+ASUS,Gaming Laptop,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.3,2560,1600,299990
+ASUS,Gaming Laptop,15.6 inch,16 GB,AMD Ryzen 9 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2.5,2560,1440,129990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.38,1920,1080,43662
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,39890
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.7,1920,1080,36200
+HP,Notebook,14 inch,8 GB,Intel Core i3 11th Gen,DOS,512 GB SSD,No,No,1.47,1366,768,32790
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,34990
+HP,Laptop,15.6 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,,,,36450
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+MSI,2 in 1 Laptop,14 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,No,1.6,2560,1600,134990
+MSI,"Gaming, Processing ",17.3 Inch,64 GB,Intel Core i9 13th Gen,Windows 11 ,2 TB SSD,No,Yes,3.3,,,470990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+Acer,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1080,62990
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,62990
+DELL,Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,64900
+realme,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.47,2160,1440,44999
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,42990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,45965
+Acer,Notebook,14 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.25,1920,1080,49990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,85990
+Infinix,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.24,1920,1080,35990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,68990
+Infinix,Business Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,57990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,1 TB SSD,No,No,1.75,1920,1080,73990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,63990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,54990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,101990
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,58990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+MSI,Gaming,17.3 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,1920,1080,112990
+Lenovo,Gaming,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,Yes,2.2,1920,1080,60000
+ASUS,2 in 1 Gaming Laptop,13.4 Inch,16 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,1.18,2560,1600,209990
+ASUS,Gaming Laptop,15.6 Inch,32 GB,Intel Core i9 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.3,2560,1440,209569
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+Infinix,Thin and Light Laptop,14 Inch,16 GB,Intel Core i7 10th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,54990
+ASUS,Gaming Laptop,16 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1200,79990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,52990
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.69,1920,1080,38700
+ASUS,Gaming Laptop,18 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,3.1,1920,1200,279990
+HP,Laptop,15.6 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,,,,36450
+SAMSUNG,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,No,1.58,1920,1080,89990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+DELL,2 in 1 Laptop,14 inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1200,82990
+DELL,Thin and Light Laptop,14.1 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,86390
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+APPLE,Thin and Light Laptop,13.3 Inch,8 GB,Apple M2,Mac OS Monterey,512 GB SSD,No,No,1.38,2560,1600,137990
+Lenovo,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.55,1920,1200,102090
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,36690
+ASUS,2 in 1 Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,79990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,No,1.7,1920,1080,109990
+HP,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,109990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.1,2560,1440,181990
+APPLE,Thin and Light Laptop,13.3 Inch,8 GB,Apple M2,Mac OS Monterey,512 GB SSD,No,No,1.38,2560,1600,137990
+Infinix,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.24,1920,1080,35990
+Lenovo,Thin and Light Laptop,14 inch,4 GB,Intel Core i5 8th Gen,DOS,1 TB HDD,No,No,,,,46500
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2.2,1920,1080,104990
+Infinix,Thin and Light Laptop,15.6 inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,No,1.8,1920,1080,84990
+APPLE,Thin and Light Laptop,14 Inch,32 GB,Apple M2 Max,macOS Ventura,1 TB SSD,No,No,1.63,,,285490
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,1 TB SSD,No,No,1.88,1920,1200,66990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,57790
+CHUWI,Laptop,11.6 inch,4 GB,Intel Celeron Dual Core 10th Gen,Windows 11 ,128 GB SSD,No,No,0.91,,,16990
+DELL,Gaming Laptop,16 inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.72,2560,1600,385990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,1 TB SSD,No,Yes,1.8,1920,1080,69990
+MSI,Gaming,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.67,2560,1600,294990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,No,1.39,2880,1800,117990
+Lenovo,Gaming Laptop,16 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2.45,,,136500
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42900
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,1.86,1920,1080,93990
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10,256 GB SSD,No,No,1.39,1920,1080,44990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,1 TB SSD,No,No,1.65,1920,1080,48900
+ASUS,Gaming,13.4 Inch,32 GB,AMD Ryzen 9 Octa Core,Windows 10,1 TB SSD,No,Yes,1.3,,,239990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54431
+ASUS,2 in 1 Gaming Laptop,13.4 Inch,32 GB,AMD Ryzen 9 Octa Core,Windows 11 ,1 TB SSD,No,Yes,1.3,1920,1200,151990
+ASUS,Laptop,16 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,55990
+Ultimus,Thin and Light Laptop,14.1 inch,8 GB,Intel Core i5 10th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,28990
+DELL,Gaming,15.6 Inch,16 GB,Intel Core i9 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.81,1920,1080,138990
+GIGABYTE,Gaming Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.08,1920,1080,84990
+HP,Gaming Laptop,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.09,2560,1600,277278
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,40990
+Infinix,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,34990
+Acer,Gaming Laptop,16 Inch,32 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,,2560,1600,194990
+Infinix,Thin and Light Laptop,14 inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,48990
+ASUS,Gaming Laptop,16 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,Yes,1.9,3200,2000,124990
+HP,Thin and Light Laptop,14 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.46,1920,1080,46490
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,2.43,1920,1080,33990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.65,1920,1080,57500
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,,,,58761
+HP,Gaming,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,"512 GB HDD,512 GB SSD",No,Yes,1.98,1920,1080,61500
+DELL,Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,48490
+Infinix,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,40990
+ASUS,Gaming Laptop,17.3 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,1920,1080,114990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,92990
+Acer,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,No,1.65,1920,1080,51500
+Mi,Thin and Light Laptop,14 inch,8 GB,Intel Core i7 10th Gen,Windows 10,512 GB SSD,No,No,1.35,1920,1080,56490
+ASUS,Gaming Laptop,14 Inch,16 GB,AMD Ryzen 9 Octa Core,Windows 10,1 TB SSD,No,Yes,1.7,2560,1440,139990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,"Gaming, Performance",15.6 inch,16 GB,Intel Ryzen 7 Quad Core,Windows 11 ,1 TB SSD,No,No,,1920,1080,84419
+ASUS,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,Yes,1.8,2880,1620,121622
+Acer,Gaming Laptop,16 Inch,16 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,1920,1200,174990
+ASUS,TUF GAMING A15,15.6 inch,8 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.3,1920,1080,68990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42900
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+APPLE,Thin and Light Laptop,15.3 Inch,8 GB,Apple M2,macOS Ventura,256 GB SSD,No,No,1.51,2880,1864,126990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.7,1280,720,28490
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+DELL,Gaming,38 cm,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.81,1920,1080,112390
+Acer,Gaming Laptop,15.6 inch,16 GB,Intel Core i7 11th Gen,Windows 10,"1 TB HDD,512 GB SSD",No,Yes,2.3,2560,1440,95990
+MSI,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,67990
+Acer,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1080,62990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+DELL,Notebook,14 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.48,1920,1080,47990
+HP,Gaming Laptop,16.1 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.48,1920,1080,62500
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+ASUS,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.1,1920,1080,87990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.3,1920,1080,144990
+HP,Business Laptop,14 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.98,,,29790
+HP,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,Yes,2.28,1920,1080,71500
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,63990
+ASUS,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,65990
+Acer,Gaming Laptop,16 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,2560,1600,144990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,64490
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,42990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+MSI,Gaming Laptop,16 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.26,2560,1660,104990
+Lenovo,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.46,1920,1200,60990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,63990
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,,,,35500
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+ASUS,Gaming,15.6 inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,,1920,1080,139990
+ALIENWARE,Gaming,15.6 inch,32 GB,Intel Core i9 10th Gen,Windows 10,1 TB SSD,No,Yes,2.5,,,325990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+MSI,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,256 GB SSD,No,No,1.4,1920,1080,35990
+Acer,Thin and Light Laptop,14 inch,8 GB,Intel Core i5 11th Gen,Windows 10,512 GB SSD,No,No,1.2,1920,1080,56490
+DELL,Gaming,15.6 inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.65,1920,1080,68990
+MSI,Gaming Laptop,15.6 Inch,8 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.25,1920,1080,88990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,Yes,2.28,1920,1080,71500
+ASUS,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,86990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+DELL,Gaming,38 cm,16 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,89990
+ALIENWARE,Gaming,15.6 inch,32 GB,Intel Core i9 10th Gen,Windows 10,1 TB SSD,No,Yes,2.5,,,325990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,35072
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,,,,35500
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Lenovo,2 in 1 Laptop,13.3 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.37,1920,1200,85990
+ASUS,Gaming,15.6 inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,,1920,1080,139990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+Lenovo,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.46,1920,1200,60990
+HP,Thin and Light Laptop,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,1.47,1366,768,23990
+ASUS,Gaming Laptop,15.6 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.3,1920,1080,82990
+Acer,2 in 1 Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,84990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,Gaming Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.2,1920,1080,87990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Celeron Dual Core,Windows 11 ,512 GB SSD,No,No,1.57,1920,1080,30990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+DELL,Thin and Light Laptop,13 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,No,0.736,1920,1080,207657
+Acer,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,"1 TB HDD,256 GB SSD",No,No,1.65,1920,1080,54990
+ASUS,2 in 1 Laptop,14 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,No,1.4,2880,1800,104990
+MSI,Thin and Light Laptop,14 Inch,8 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,62990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,63990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,68990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42900
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,16 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,No,1.34,,,148800
+ASUS,Gaming Laptop,15.6 inch,16 GB,AMD Ryzen 9 Octa Core,Windows 10,1 TB SSD,No,Yes,2.5,2560,1440,154990
+MSI,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,46990
+DELL,Notebook,14 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,88990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,114990
+Lenovo,Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10 Pro,512 GB SSD,No,No,,1920,1080,83600
+Acer,Gaming Laptop,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,,2560,1600,249990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Acer,Laptop,15.6 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.9,1920,1080,36999
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+ASUS,Gaming Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,Yes,1.4,2880,1800,89990
+MSI,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.25,1920,1080,86990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,41990
+Lenovo,Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10 Pro,512 GB SSD,No,No,,1920,1080,83600
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,63990
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 10,512 GB SSD,No,No,1.69,1920,1080,44555
+SAMSUNG,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,65990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.7,2880,1620,85990
+AXL,Thin and Light Laptop,14.1 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,14990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+DELL,Gaming Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.84,1920,1080,154990
+Infinix,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 10th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,44990
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.76,1920,1080,24990
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,34990
+Lenovo,2 in 1 Laptop,14 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,86290
+Lenovo,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.3,2880,1800,69590
+HP,Thin and Light Laptop,13.3 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.32,1920,1080,89999
+Infinix,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 10th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,44990
+HP,Laptop,14 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,1 TB HDD,No,No,1.69,,,28990
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+ASUS,Gaming,14 inch,16 GB,AMD Ryzen 7 Quad Core 10th Gen,Windows 11 ,"1 TB HDD,1 TB SSD",No,Yes,,,,162599
+DELL,Gaming Laptop,14 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,Yes,1.84,1920,1080,167990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+Lenovo,2 in 1 Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,71251
+DELL,Gaming,38 cm,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.51,1920,1080,73990
+ASUS,Chromebook,14 inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.34,1366,768,25990
+Lenovo,Gaming Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,73990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+GIGABYTE,Gaming Laptop,15.6 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.3,3840,2160,149990
+ASUS,Chromebook,15.6 Inch,4 GB,Intel Celeron Dual Core,Chrome OS,128 GB EMMC Storage,No,No,1.8,1920,1080,19990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,"1 TB HDD,1 TB SSD",No,Yes,1.86,1920,1080,60990
+ASUS,Gaming Laptop,17.3 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,1920,1080,150800
+Lenovo,Business Laptop,14 inch,16 GB,Intel Core i5 11th Gen,Windows 11 Pro,512 GB SSD,No,No,,1920,1080,75500
+SAMSUNG,Thin and Light Laptop,16 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,No,1.56,2880,1800,165990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,Yes,No,1.5,1920,1080,62990
+DELL,Notebook,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.48,1920,1080,37290
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,68490
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,65990
+DELL,Notebook,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.48,1920,1080,36500
+Acer,Gaming Laptop,16 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.6,2560,1600,144990
+HP,2 in 1 Laptop,13.3 inch,8 GB,Intel Core i5 10th Gen,Windows 10 Pro,512 GB SSD,No,No,1.27,1920,1080,126000
+Lenovo,2 in 1 Laptop,14 inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,,,,64990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,85990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,67990
+ASUS,Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,54990
+SAMSUNG,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.17,2880,1800,131990
+Lenovo,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.55,1920,1200,92290
+Lenovo,Gaming Laptop,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,512 GB SSD,No,Yes,2.2,1920,1080,71990
+Lenovo,Thin and Light Laptop,15.6 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.39,1920,1080,66989
+DELL,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 10,512 GB SSD,No,Yes,2.4,1920,1080,86500
+HP,Thin and Light Laptop,16 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,No,1.34,,,138945
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+DELL,Gaming Laptop,15.6 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 10,512 GB SSD,No,Yes,2.5,1920,1080,79990
+Lenovo,Laptop,15.6 inch,8 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,62350
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,49990
+ASUS,Gaming Laptop,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.5,2560,1600,286841
+HP,Thin and Light Laptop,13.3 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.32,2880,1800,94039
+Acer,Gaming Laptop,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,,2560,1600,249990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+DELL,Laptop,14 inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,75990
+DELL,Thin and Light Laptop,38 cm,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,40990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.39,2880,1800,79990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Laptop,14 inch,8 GB,Intel Core i3 11th Gen,DOS,512 GB SSD,No,No,,1366,768,35590
+ASUS,Chromebook,14 inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.34,1366,768,25990
+DELL,Notebook,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.48,1920,1080,37290
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,512 GB SSD,No,No,1.75,1920,1080,53999
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Chromebook,14 inch,8 GB,Intel Core i5 11th Gen,Chrome OS,256 GB SSD,No,No,1.49,1920,1080,49586
+ASUS,Gaming Laptop,15.6 inch,32 GB,Intel Core i9 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.3,2560,1440,215000
+AXL,Thin and Light Laptop,14.1 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,14990
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,29990
+MSI,Thin and Light Laptop,14 Inch,16 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.4,1920,1080,40990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,Yes,No,1.5,1920,1080,62990
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.62,1920,1080,39000
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,65990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+Infinix,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,256 GB SSD,No,No,1.76,1920,1080,24990
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,35100
+Acer,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.59,,,44990
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,34990
+HP,Laptop,14 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,1 TB HDD,No,No,1.69,,,28990
+Lenovo,Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.85,1366,768,37900
+Acer,Gaming,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,"1 TB HDD,256 GB SSD",No,Yes,2.3,1920,1080,61990
+DELL,Thin and Light Laptop,15.6 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,256 GB SSD,No,No,1.68,1920,1080,47852
+MSI,Gaming Laptop,16 inch,16 GB,Intel Core i9 11th Gen,Windows 10,1 TB SSD,No,Yes,2.2,2560,1600,109990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+HP,Thin and Light Laptop,15.6 inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,73500
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,55990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,55990
+HP,Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,2.14,1920,1080,89490
+ASUS,Laptop,15.6 inch,16 GB,AMD Ryzen 5 Quad Core 12th Gen,Windows 11 ,512 GB SSD,No,No,,,,55900
+HP,Chromebook,14 inch,8 GB,Intel Core i5 11th Gen,Chrome OS,256 GB SSD,No,No,1.49,1920,1080,49586
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+APPLE,Thin and Light Laptop,13.3 inch,8 GB,Apple M1,Mac OS Big Sur,512 GB SSD,No,No,1.29,2560,1600,109990
+Acer,Gaming,15.6 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 10,"1 TB HDD,256 GB SSD",No,Yes,2.4,1920,1080,109900
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,Thin and Light Laptop,14 inch,8 GB,Intel Core i7 8th Gen,Windows 10,"1 TB HDD,256 GB SSD",No,No,1.4,1920,1080,67990
+ASUS,Thin and Light Laptop,14 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,Yes,No,1.4,2880,1800,149990
+Lenovo,Gaming Laptop,16 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2.45,2560,1600,114020
+Lenovo,Laptop,15.6 inch,8 GB,Intel Core i7 11th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,62350
+ASUS,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.4,2880,1800,69990
+DELL,Thin and Light Laptop,13 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,No,0.736,1920,1080,207657
+DELL,Gaming,15.6 Inch,16 GB,Intel Core i9 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.81,2560,1440,175018
+DELL,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.48,1920,1080,53249
+Lenovo,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.55,1920,1200,64990
+SAMSUNG,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.17,2880,1800,131990
+MSI,Gaming Laptop,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 Pro,1 TB SSD,No,Yes,1.88,,,249990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 13th Gen,Windows 11 ,512 GB SSD,No,No,1.75,1920,1080,47490
+HP,Gaming Laptop,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,58595
+Infinix,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 10th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,44990
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,Yes,1.86,1920,1080,53990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,109990
+DELL,Thin and Light Laptop,38 cm,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,40990
+Lenovo,2 in 1 Laptop,13.3 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.37,1920,1200,108190
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Laptop,15.6 inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,,,,39990
+ASUS,Laptop,15.6 inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,1 TB SSD,No,No,,,,76462
+ASUS,Gaming,15.6 inch,16 GB,AMD Ryzen 7 Octa Core 10th Gen,Windows 11 ,512 GB SSD,No,Yes,,1920,1080,77662
+HP,Gaming,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,512 GB SSD,No,Yes,1.98,1920,1080,61500
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+HP,Chromebook,13.3 Inch,8 GB,MediaTek MediaTek Kompanio 1200,Chrome OS,256 GB SSD,No,No,1.49,1920,1080,43747
+ASUS,Thin and Light Laptop,17.3 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,No,1.5,2560,1920,329990
+DELL,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 10,256 GB SSD,No,No,1.85,1920,1080,37690
+Lenovo,Thin and Light Laptop,14 Inch,4 GB,AMD Athlon Dual Core,DOS,1 TB HDD,No,No,1.59,1366,768,21990
+ASUS,Thin and Light Laptop,14 inch,8 GB,Intel Core i5 8th Gen,Windows 10 Pro,512 GB SSD,No,No,1.22,1920,1080,78990
+ASUS,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 10th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,35300
+Lenovo,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.62,1920,1080,45990
+MSI,Gaming Laptop,15.6 inches,16 GB,Intel Core i7 11th Gen,Windows 10,1 TB SSD,No,Yes,2.25,1920,1080,99990
+HP,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.41,2240,1400,80490
+Acer,Thin and Light Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.59,,,44990
+ASUS,Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,54990
+MSI,Gaming,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.67,2560,1600,294990
+Infinix,Thin and Light Laptop,15.6 inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,1 TB SSD,No,No,1.58,1920,1080,52990
+Acer,Gaming Laptop,15.6 inch,8 GB,AMD Ryzen 7 Octa Core,Windows 10,"1 TB HDD,256 GB SSD",No,Yes,2.3,1920,1080,76990
+MSI,Gaming Laptop,16 Inch,32 GB,Intel Core i9 13th Gen,Windows 11 Pro,2 TB SSD,No,Yes,1.88,,,299990
+Acer,Notebook,11.6 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,1.4,1366,768,24450
+Acer,Gaming,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 10,512 GB SSD,No,Yes,2.15,1920,1080,52000
+Lenovo,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10,512 GB SSD,No,Yes,2.25,1920,1080,55990
+DELL,Thin and Light Laptop,15.6 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 10,256 GB SSD,No,No,1.8,1920,1080,36990
+Infinix,Thin and Light Laptop,15.6 inch,16 GB,Intel Core i7 11th Gen,Windows 11 ,1 TB SSD,No,No,1.58,1920,1080,52990
+HP,Gaming Laptop,16.1 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,Yes,2.32,2560,1440,102990
+HP,Gaming Laptop,16.1 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.32,1920,1080,115000
+DELL,Gaming,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2.51,1920,1080,146990
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,,,,57850
+Lenovo,Thin and Light Laptop,14 inch,16 GB,Intel Core i7 8th Gen,Windows 10 Pro,512 GB SSD,No,No,1.55,1920,1080,244801
+HP,2 in 1 Laptop,13.3 inch,8 GB,Intel Core i5 8th Gen,Windows 10 Pro,256 GB SSD,No,No,1.32,1920,1080,136590
+Acer,Gaming,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 10,512 GB SSD,No,Yes,2.15,1920,1080,52000
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.7,1920,1080,85990
+DELL,Thin and Light Laptop,13 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,No,0.736,1920,1080,207657
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Thin and Light Laptop,15.6 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1366,768,30999
+HP,Gaming Laptop,16.1 inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.32,1920,1080,115000
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+Lenovo,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.55,1920,1200,64990
+DELL,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,"1 TB HDD,256 GB SSD",No,No,1.65,1920,1080,69490
+DELL,Gaming,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,1 TB SSD,No,Yes,2.51,1920,1080,146990
+Infinix,Thin and Light Laptop,14 Inch,8 GB,Intel Core i3 12th Gen,Windows 11 ,512 GB SSD,No,No,1.24,1920,1080,34990
+DELL,Thin and Light Laptop,15.6 inch,8 GB,AMD Ryzen 3 Dual Core,Windows 10,256 GB SSD,No,No,1.8,1920,1080,36990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42900
+ASUS,Chromebook,15.6 Inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,1.8,1920,1080,19990
+ASUS,Laptop,15.6 inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,63989
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,2 in 1 Laptop,13.3 inch,8 GB,Intel Core i5 8th Gen,Windows 10 Pro,256 GB SSD,No,No,1.32,1920,1080,136590
+HP,Gaming,16.1 inch,8 GB,Intel Core i5 11th Gen,Windows 10,512 GB SSD,No,No,,1920,1080,81500
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,42990
+HP,Thin and Light Laptop,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.52,1920,1080,53800
+DELL,Laptop,14 inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,75990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+MSI,Gaming Laptop,15.6 inch,8 GB,Intel Core i5 10th Gen,Windows 10,512 GB SSD,No,Yes,1.86,1920,1080,56490
+ASUS,Gaming Laptop,14 Inch,32 GB,AMD Ryzen 9 Octa Core,Windows 11 ,1 TB SSD,No,Yes,1.72,2560,1600,199990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42900
+HP,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,82850
+Acer,Notebook,15.6 inch,8 GB,AMD Ryzen 5 Quad Core,Windows 10,512 GB SSD,No,No,1.9,1920,1080,37999
+ASUS,Gaming,15.6 inch,16 GB,AMD Ryzen 5 Dual Core 10th Gen,Windows 11 ,512 GB SSD,No,Yes,,1920,1080,74617
+GIGABYTE,Gaming Laptop,15.6 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.3,3840,2160,193990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+HP,Gaming,15.6 inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 10,512 GB SSD,No,Yes,1.98,1920,1080,61500
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+HP,Thin and Light Laptop,14 Inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.41,1920,1080,62700
+Acer,Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,256 GB SSD,No,No,1.9,1920,1200,31499
+MSI,Gaming,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 10,512 GB SSD,No,Yes,1.86,1920,1080,50990
+Acer,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.5,1920,1080,74990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+Lenovo,Thin and Light Laptop,16 Inch,16 GB,Intel Core i7 13th Gen,Windows 11 ,512 GB SSD,No,No,1.63,1920,1200,85889
+ASUS,Gaming Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,Yes,1.8,2880,1620,121990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+GIGABYTE,Gaming Laptop,15.6 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,3.11,1920,1080,69990
+ASUS,Thin and Light Laptop,14 inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.39,2880,1800,87990
+DELL,2 in 1 Laptop,14 inch,8 GB,Intel Core i5 11th Gen,Windows 10,512 GB SSD,No,No,1.5,1920,1080,74500
+Lenovo,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.65,1920,1080,35990
+ASUS,Thin and Light Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,63990
+ASUS,Thin and Light Laptop,14 Inch,16 GB,Intel Core i3 11th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,42990
+HP,Thin and Light Laptop,15.6 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,No,1.6,1920,1080,68990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Core i3 10th Gen,Windows 10,512 GB SSD,No,No,1.4,1920,1080,45000
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+MSI,Gaming,15.6 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,Yes,2.25,1920,1080,75990
+Lenovo,Business Laptop,14 inch,8 GB,Intel Core i5 12th Gen,Windows 11 Pro,512 GB SSD,No,No,1.5,1920,1080,54999
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 10th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,49900
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,1.8,1920,1080,64490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Acer,Thin and Light Laptop,14 Inch,4 GB,Intel Celeron Dual Core,Chrome OS,64 GB EMMC Storage,No,No,,,,20990
+HP,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,59890
+ASUS,Laptop,16 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.88,1920,1200,59990
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Lenovo,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 7 Octa Core,Windows 11 ,512 GB SSD,No,Yes,2.4,1920,1080,87990
+DELL,Business Laptop,14 Inch,8 GB,Intel Core i3 11th Gen,Ubuntu,"256 GB SSD,32 GB EMMC Storage",No,No,1.52,1920,1080,35490
+ASUS,Gaming Laptop,14 Inch,16 GB,Intel Core i5 13th Gen,Windows 11 ,512 GB SSD,No,Yes,1.4,1920,1200,98990
+ASUS,2 in 1 Laptop,14 inch,8 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.5,1920,1200,74990
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,47990
+MSI,Thin and Light Laptop,14 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,1.49,1920,1200,89990
+DELL,Business Laptop,14 inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,,1920,1080,49410
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Acer,Thin and Light Laptop,15.6 inch,8 GB,Intel Core i5 11th Gen,Windows 10,512 GB SSD,No,No,1.65,1920,1080,47499
+ALIENWARE,Gaming,15.6 inch,16 GB,Intel Core i7 10th Gen,Windows 10,1 TB SSD,No,Yes,2.5,,,250000
+DELL,Laptop,16 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,No,1.91,1920,1080,88790
+Acer,Laptop,14 Inch,4 GB,AMD Dual Core,Windows 11 ,256 GB SSD,No,No,1.9,1366,768,22900
+HP,Notebook,14 inch,8 GB,AMD Athlon Dual Core,Windows 11 ,1 TB HDD,No,No,,1366,768,23490
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+ASUS,Gaming Laptop,17.3 inch,32 GB,Intel Core i9 12th Gen,Windows 11 ,4 TB SSD,No,Yes,3,2560,1440,399990
+ASUS,Gaming,15.6 inch,8 GB,Intel Hexa Core i5,Windows 11 ,512 GB SSD,No,Yes,,1920,1080,60990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,1920,1080,34990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.8,1920,1080,34990
+ASUS,2 in 1 Gaming Laptop,13.4 Inch,16 GB,AMD Ryzen 9 Octa Core,Windows 11 ,1 TB SSD,No,Yes,1.3,2560,1600,175900
+ASUS,Gaming Laptop,16 Inch,32 GB,AMD Ryzen 7 Octa Core,Windows 11 ,2 TB SSD,No,Yes,2.5,1920,1200,224990
+ASUS,2 in 1 Laptop,13.3 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.3,1920,1080,87400
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,70890
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 3 Quad Core,Windows 11 ,512 GB SSD,No,No,1.63,1920,1080,38990
+HP,Thin and Light Laptop,15.6 Inch,8 GB,AMD Athlon Dual Core,Windows 11 ,512 GB SSD,No,No,1.69,,,30990
+DELL,Thin and Light Laptop,13 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,0.736,1920,1080,141990
+HP,Thin and Light Laptop,13.3 inch,8 GB,Intel Core i5 7th Gen,Windows 10,256 GB SSD,No,No,1.1,1920,1080,54000
+Acer,Thin and Light Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,34990
+Lenovo,2 in 1 Laptop,14 inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,,,,64990
+MSI,Gaming,17.3 Inch,16 GB,Intel Core i9 13th Gen,Windows 11 ,1 TB SSD,No,Yes,2.7,1920,1080,194990
+Lenovo,2 in 1 Laptop,14 inch,8 GB,Intel Core i3 11th Gen,Windows 11 ,256 GB SSD,No,No,1.5,1920,1080,54990
+ASUS,Gaming Laptop,17.3 inch,32 GB,Intel Core i9 12th Gen,Windows 11 ,4 TB SSD,No,Yes,3,2560,1440,399990
+ASUS,Gaming Laptop,15.6 Inch,16 GB,AMD Ryzen 9 Octa Core,Windows 11 ,1 TB SSD,No,Yes,1.9,2560,1440,153990
+Lenovo,2 in 1 Laptop,14 Inch,16 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.55,1920,1200,92290
+Avita,Laptop,14.1 Inch,4 GB,Intel Celeron Dual Core,Windows 11 ,128 GB SSD,No,No,,1920,1080,16490
+DELL,Laptop,16 Inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,512 GB SSD,No,No,1.91,1920,1080,88790
+ASUS,Gaming,15.6 inch,8 GB,Intel Hexa Core i5,Windows 11 ,512 GB SSD,No,Yes,,1920,1080,60990
+HP,Gaming Laptop,15.6 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,Yes,2.37,1920,1080,54990
+Acer,Notebook,14 Inch,8 GB,AMD Ryzen 5 Hexa Core,Windows 11 ,512 GB SSD,No,No,1.25,1920,1080,49990
+ASUS,2 in 1 Gaming Laptop,13.4 Inch,16 GB,AMD Ryzen 9 Octa Core,Windows 11 ,1 TB SSD,No,Yes,1.3,2560,1600,175900
+ASUS,2 in 1 Laptop,13.3 Inch,16 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.3,1920,1080,87400
+ASUS,Gaming Laptop,16 Inch,32 GB,AMD Ryzen 7 Octa Core,Windows 11 ,2 TB SSD,No,Yes,2.5,1920,1200,224990
+DELL,Thin and Light Laptop,13 Inch,16 GB,Intel Core i5 12th Gen,Windows 11 ,512 GB SSD,No,No,0.736,1920,1080,141990
+ASUS,Thin and Light Laptop,15.6 Inch,8 GB,Intel Core i5 11th Gen,Windows 11 ,512 GB SSD,No,No,1.8,1920,1080,42900
+ASUS,Thin and Light Laptop,14 inch,4 GB,Intel Celeron Dual Core,Windows 11 ,256 GB SSD,No,No,1.6,1366,768,25990
+Lenovo,Thin and Light Laptop,15.6 Inch,4 GB,Intel Core i3 10th Gen,Windows 10,256 GB SSD,No,No,1.65,1920,1080,39500
+HP,Gaming Laptop,16.1 inch,16 GB,Intel Core i7 12th Gen,Windows 11 ,1 TB SSD,No,Yes,2.32,1920,1080,119000
+Acer,Notebook,15.6 Inch,8 GB,AMD Ryzen 5 Quad Core,Windows 11 ,512 GB SSD,No,No,1.78,1920,1080,36990
+Primebook,Thin and Light Laptop,11 Inch,4 GB,MediaTek MediaTek MT8788,Prime OS,128 GB EMMC Storage,No,No,1.065,1366,768,15990
+Lenovo,Business Laptop,14 inch,16 GB,Intel Core i7 12th Gen,Windows 11 Pro,512 GB SSD,No,No,,1920,1080,111990
+Acer,Gaming,15.6 inches,16 GB,Intel Core i7 11th Gen,Windows 10,1 TB SSD,No,Yes,2.3,2560,1440,124990
